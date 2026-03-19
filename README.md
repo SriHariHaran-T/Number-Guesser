@@ -24,7 +24,10 @@ A simple Python game where the player tries to guess a randomly generated number
 ## 🚧 Future Improvements
 - Add multiple attempts
 - Add difficulty levels
-- Convert into a GUI game
+
+##🔥On Progress Improvements
+
+<img width="302" height="232" alt="python_MnsReLOr8t" src="https://github.com/user-attachments/assets/3945711a-1800-410d-9c02-f6bff0b152d1" />
 
 ---
 
