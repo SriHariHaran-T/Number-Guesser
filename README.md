@@ -1,4 +1,4 @@
-🎯 Number Guesser
+## 🎯 Number Guesser
 
 A simple Python game where the player tries to guess a randomly generated number.
 
