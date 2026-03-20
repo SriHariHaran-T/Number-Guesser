@@ -1,38 +1,37 @@
 # 🎯 Number Guesser (GUI Version)
 
-A Python-based number guessing game with a graphical user interface built using Tkinter.
+A modern Python GUI game built using **tkinter + ttk** where the player tries to guess a randomly generated number.
 
-## 🖥️ Features
-- Random number generation (1–10)
-- Limited attempts system
-- Input validation (handles invalid entries)
-- Reset / Play Again functionality
-- Real-time feedback (Too high / Too low)
-- Interactive buttons (Check, Reset, Subscribe)
-- Clean UI with spacing and layout
+<p align="center"><img width="402" height="512" alt="With_webbrowser_SGTEi1Vzxa" src="https://github.com/user-attachments/assets/9d243e3c-7624-4012-949d-dfb39e10ba0f" /></p>
 
 ---
 
-## 📸 Example UI
+## 🚀 Features
 
-- New Interface            <p align="center"><img width="322" height="352" alt="python_dlCI5eEkdZ" src="https://github.com/user-attachments/assets/4907d8c8-4f4a-4175-8996-bf6d77900f5f" /></p>
-- Game Over Message        <p align="center"><img width="322" height="352" alt="python_cyNfi1vo1s" src="https://github.com/user-attachments/assets/64227228-4f45-4a13-b321-258559281b8b" /></p>
-- Correct Guess            <p align="center"><img width="322" height="352" alt="python_kTeI5XpLiF" src="https://github.com/user-attachments/assets/60b51ecf-9234-44ea-9b34-b3931cc3450c" /></p>
-- If the guess is too high <p align="center"><img width="322" height="352" alt="python_nRKHcVssUC" src="https://github.com/user-attachments/assets/77ce6722-e377-4e36-91d9-02e3f58f01e0" /></p>
-- If the guess is too low  <p align="center"><img width="322" height="352" alt="python_u2GXMRfNos" src="https://github.com/user-attachments/assets/ebef0842-fa88-4459-9d49-ada7383f89af" /></p>
-- Reset                    <p align="center"><img width="322" height="352" alt="python_yu7lkFwc4Z" src="https://github.com/user-attachments/assets/30fca975-1f62-40d5-a44a-fa19194420f2" /></p>
-
-
-
+- Interactive GUI (no terminal)
+- Difficulty modes (Easy / Medium / Hard)
+  <p align="center"><img width="398" height="110" alt="With_webbrowser_KVNySkS1ZK" src="https://github.com/user-attachments/assets/331f3a8d-6edf-45b5-bf91-107a8943482c" /></p>
+- Limited attempts system
+- Reset system (no cheating mid-game 😏)
+- Subscribe button opens my channel
 
 ---
 
 ## 🧠 What I Learned
 
-- Python basics
-- Conditional logic
+- Python basics (functions, conditions)
+- GUI development using tkinter & ttk
+- Structuring UI using Frames
 - Git & GitHub workflow
-- Tkinter basics
+- Converting Python → EXE using PyInstaller
+
+---
+
+## 📸 Example UI
+
+- New Interface            <p align="center"><img width="402" height="512" alt="With_webbrowser_SGTEi1Vzxa" src="https://github.com/user-attachments/assets/9d243e3c-7624-4012-949d-dfb39e10ba0f" /></p>
+- Game Over Message        <p align="center"><img width="402" height="512" alt="With_webbrowser_bNjUuptoiO" src="https://github.com/user-attachments/assets/bd0ee134-bbb5-4d70-bcae-943022c61f09" /></p>
+- Correct Guess            <p align="center"><img width="402" height="512" alt="With_webbrowser_FoVzxAZ4mv" src="https://github.com/user-attachments/assets/b54603bb-e57c-47b5-9369-f6230917aaa6" /></p>
 
 ---
 
@@ -47,5 +46,4 @@ A Python-based number guessing game with a graphical user interface built using 
 3. Run:
 
 ```bash
-python gui_number_guesser.py
-
+python ttk.py
