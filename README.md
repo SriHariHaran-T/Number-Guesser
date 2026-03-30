@@ -35,7 +35,7 @@ A modern Python GUI game built using **tkinter + ttk** where the player tries to
 
 ---
 
-👩🏾‍💻 Built by Hari | Heo 
+🧑🏾‍💻Built by Hari | Heo 
 - Learning. Building. Improving.
   
 ---
